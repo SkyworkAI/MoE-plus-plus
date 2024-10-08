@@ -32,6 +32,16 @@ We introduce three types of zero-computation experts: the zero expert, copy expe
 <img src="figures/fig3.png" width="800px">
 </div>
 
+### Download URL
+<div align=center>
+  
+|         |                               HuggingFace Model                                |  
+|:-------:|:------------------------------------------------------------------------------:|
+| **MoE++7B-Base**     |     🤗 [MoE++7B-Base](https://huggingface.co/Chat-UniVi/MoE-Plus-Plus-7B)     |
+| **MoE++7B-Chat** |                               😊 [Coming Soon]()                               | 
+</div>
+
+
 ## 😮 Highlights
 ### 💡 Low Computing Overhead
 For an MoE++ model, its computational complexity is always **less than** that of MoE models with the same number of parameters.
