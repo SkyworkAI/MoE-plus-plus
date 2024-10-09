@@ -23,7 +23,7 @@
     
 > [**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**](https://arxiv.org/abs/2311.08046) <br>
 > Peng Jin, Ryuichi Takanobu, Wancai Zhang, Xiaochun Cao, Li Yuan <br>
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/PKU-YuanGroup/Chat-UniVi)  [![github](https://img.shields.io/github/stars/PKU-YuanGroup/Chat-UniVi.svg?style=social)](https://github.com/PKU-YuanGroup/Chat-UniVi) [![arXiv](https://img.shields.io/badge/Arxiv-2311.08046-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2311.08046) <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/PKU-YuanGroup/Chat-UniVi)  [![github](https://img.shields.io/github/stars/PKU-YuanGroup/Chat-UniVi.svg?style=social)](https://github.com/PKU-YuanGroup/Chat-UniVi) [![arXiv](https://img.shields.io/badge/Arxiv-2311.08046-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2311.08046) [![Conference](http://img.shields.io/badge/CVPR-2024(Highlight)-FFD93D.svg)](https://cvpr.thecvf.com/) <br>
     
 > [**MoH: Multi-Head Attention as Mixture-of-Head Attention**](https://github.com/SkyworkAI/MoH) <br>
 > Peng Jin, Bo Zhu, Li Yuan, Shuicheng Yan <br>
