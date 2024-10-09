@@ -125,7 +125,7 @@ Coming soon...
 
 CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 accelerate launch \
 --main_process_port 2004 -m lm_eval --model hf \
---model_args pretrained=winogrande \
+--model_args pretrained=Chat-UniVi/MoE-Plus-Plus-7B \
 --tasks winogrande \
 --batch_size 1 \
 --output_path Results/winogrande
@@ -136,6 +136,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 accelerate launch \
 
 
 ## 🤝 Related Projects
+* [MoH](https://github.com/SkyworkAI/MoH) MoH is a promising alternative to multi-head attention and provides a strong foundation for developing advanced and efficient attention-based models.
 * [Chat-UniVi (CVPR 2024 Highlight)](https://github.com/PKU-YuanGroup/Chat-UniVi) The model is an efficient large language and video assistant. This framework exhibits remarkable interactive capabilities between images and videos.
 
 
