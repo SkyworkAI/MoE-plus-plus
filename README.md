@@ -164,8 +164,9 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 accelerate launch \
 If you find this paper useful, please consider staring 🌟 this repo and citing 📑 our paper:
 ```
 @article{jin2024moe,
-  title={MoE++: Accelerating Mixture-of-Experts Methods with Zero-Computation Experts}, 
-  author={Peng Jin and Bo Zhu and Li Yuan and Shuicheng Yan},
+  title={MoE++: Accelerating Mixture-of-Experts Methods with Zero-Computation Experts},
+  author={Jin, Peng and Zhu, Bo and Yuan, Li and Yan, Shuicheng},
+  journal={arXiv preprint arXiv:2410.07348},
   year={2024}
 }
 ```
