@@ -27,7 +27,7 @@
     
 > [**MoH: Multi-Head Attention as Mixture-of-Head Attention**](https://github.com/SkyworkAI/MoH) <br>
 > Peng Jin, Bo Zhu, Li Yuan, Shuicheng Yan <br>
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/SkyworkAI/MoH)  [![github](https://img.shields.io/github/stars/SkyworkAI/MoH.svg?style=social)](https://github.com/SkyworkAI/MoH) <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/SkyworkAI/MoH)  [![github](https://img.shields.io/github/stars/SkyworkAI/MoH.svg?style=social)](https://github.com/SkyworkAI/MoH) [![arXiv](https://img.shields.io/badge/Arxiv-2410.11842-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.11842) <br>
 
 -->
 
